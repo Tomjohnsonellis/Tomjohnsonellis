@@ -1,4 +1,4 @@
-### Hi there 👋
+### How do you do, fellow professionals? 🛹
 
 <!--
 **Tomjohnsonellis/Tomjohnsonellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### Hello, it is I, Tom.
+I've been working full time with [Strive.school](strive.school) to focus on Data Science.<br>
+I'm a problem solver and tutor, highly motivated by minor inconveniences 🙃<br>
+
