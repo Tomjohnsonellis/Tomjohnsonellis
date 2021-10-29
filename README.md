@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Hello, it is I, Tom.
-I've been working full time with [Strive.school](strive.school) to focus on Data Science.<br>
-I'm a problem solver and tutor, highly motivated by minor inconveniences 🙃<br>
+/////
 
